@@ -1,1 +1,1 @@
-# panda_e-commerce
+# panda-commerce
